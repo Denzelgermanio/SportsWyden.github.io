@@ -73,7 +73,7 @@ nav a {
 
 /* Estilo para o conteúdo principal */
 main {
-  margin: 50px 0px;
+  margin: 50px 0px 0px 0px;
 }
 main h1{
   text-align: center;
